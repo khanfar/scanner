@@ -1,0 +1,8 @@
+{
+    "input_device": "1",
+    "ppm": "23.0",
+    "frequency": "423",
+    "rf_gain": "32.0",
+    "output_device": "2",
+    "role_config": true
+}
